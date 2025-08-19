@@ -43,12 +43,6 @@ public class sum {
 		d3=d1/d2;
 		System.out.println("result="+d3);
 		
-		
-		
-		
-		
-		
 	}
-		
-
 }
+
